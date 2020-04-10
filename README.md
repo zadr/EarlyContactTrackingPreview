@@ -16,6 +16,7 @@ The `xcworkspace` here is generated from the `podspec` through [`cocoapods-gener
 
 ```
 $ gem install cocoapods-generate
+$ pod gen
 $ xed gen/EarlyContactTrackingPreview
 ```
 
