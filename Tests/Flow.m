@@ -106,7 +106,7 @@
 							}
 						};
 
-						// 7. notify the backend service we finished uploading recent contacts and find out our exposure
+						// 7. notify the backend service we finished uploading recent contacts
 						session.finishedPositiveDiagnosisRequestDelay = 1.0;
 						session.finishedPositiveDiagnosisKeysWithCompletionHandlerSummaryMock = [[CTExposureDetectionSummary alloc] init];
 						session.finishedPositiveDiagnosisKeysWithCompletionHandlerSummaryMock.matchedKeyCount = 3;

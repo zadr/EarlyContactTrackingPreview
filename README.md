@@ -7,7 +7,7 @@ The ideas discussed in the framework seemed neat, and the framework wasn't avail
 Maybe you're curious how it works as well? Maybe you want to make an app based off of this framework and don't want to wait? Etc.
 
 #### How to use
-This module isn't and probably won't be published; add `pod 'EarlyContactTrackingPreview', :git => 'git@github.com:zadr/EarlyContactTrackingPreview.git'` to your Podfile.
+This module isn't and probably won't be published; add `pod 'EarlyContactTrackingPreview', :git => 'git@github.com:zadr/EarlyContactTrackingPreview.git'` to your `Podfile`.
 
 See [`Tests/Flow.m`](https://github.com/zadr/EarlyContactTrackingPreview/blob/main/Tests/Flow.m) for my best understanding of how the API is intended to be used. It is possible I'm wrong— caveat developer— or that the API changes. If so, please let me know or file an issue on GitHub or something.
 
